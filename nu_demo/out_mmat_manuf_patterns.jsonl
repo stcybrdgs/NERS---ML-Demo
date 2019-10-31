@@ -1,0 +1,13 @@
+{"label":"MMAT", "pattern":[{"lower":"3313"}]}
+{"label":"MMAT", "pattern":[{"lower":"7216"}]}
+{"label":"MMAT", "pattern":[{"lower":"6004zz"}]}
+{"label":"MMAT", "pattern":[{"lower":"2214"}]}
+{"label":"MANUF", "pattern":[{"lower":"cooper"}]}
+{"label":"MANUF", "pattern":[{"lower":"nsk"}]}
+{"label":"MANUF", "pattern":[{"lower":"rexroth"}]}
+{"label":"MANUF", "pattern":[{"lower":"rhp"}]}
+{"label":"MANUF", "pattern":[{"lower":"fag"}]}
+{"label":"MANUF", "pattern":[{"lower":"ina"}]}
+{"label":"MANUF", "pattern":[{"lower":"timken"}]}
+{"label":"MANUF", "pattern":[{"lower":"skf"}]}
+{"label":"MANUF", "pattern":[{"lower":"bobst"}]}

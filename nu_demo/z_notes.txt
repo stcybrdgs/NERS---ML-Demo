@@ -1,0 +1,8 @@
+update demo for more impressive mmat return
+update demo to take suppliers in same script
+pull suppliers from neo database
+api against brammer & skf data
+
+trifacta
+remove DISCOUNTED from description
+add column with DISCOUNTED Flag
